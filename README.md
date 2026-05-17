@@ -38,7 +38,7 @@ To use the AI features, you must set the following API keys in your environment:
 Run the script via Python. You can optionally pass a file path to open it immediately:
 
 ```bash
-python madddog_editor.py [filename.md]
+python madddog [filename.md]
 
 ```
 
