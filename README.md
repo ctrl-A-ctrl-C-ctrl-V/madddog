@@ -20,7 +20,7 @@ MADDDOG is a specialized Markdown editor and renderer featuring integrated AI ca
 
 ### 1. Dependencies
 The program requires Python 3 and the following libraries:
-bash
+```bash
 pip install requests markdown2 tkhtmlview
 ```
 
@@ -36,7 +36,7 @@ To use the AI features, you must set the following API keys in your environment:
 ### Launching the Program
 Run the script via Python. You can optionally pass a file path to open it immediately:
 ```bash
-python madddog_editor.py [filename.md]
+python madddog.py [filename.md]
 ```
 
 ### The Interface
