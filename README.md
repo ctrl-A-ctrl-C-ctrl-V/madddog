@@ -1,6 +1,6 @@
 <img src="./madddog_logo.png" alt="Madddog Logo" height="400" width="700">
 
-# MADDDOG A Markdown Renderer integrated with external AI models
+# MADDDOG A Markdown Renderer Integrated with External AI Models
 
 MADDDOG is a specialized Markdown editor and renderer featuring integrated AI capabilities. It allows users to write Markdown, preview it in real-time, and leverage LLMs (Large Language Models) to generate content or refine documentation.
 
